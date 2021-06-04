@@ -7,7 +7,7 @@ import {
 const OrderDelivery = () => {
     return (
         <View>
-            <Text>OrderDelivery page</Text>
+            <Text>OrderDelivery page loading</Text>
         </View>
     )
 }
