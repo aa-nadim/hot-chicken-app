@@ -10,6 +10,7 @@ const Stack = createStackNavigator();
 
 const App = () => {
   console.log('noman');
+  console.log('jula');
   return(
     <NavigationContainer>
       <Stack.Navigator
