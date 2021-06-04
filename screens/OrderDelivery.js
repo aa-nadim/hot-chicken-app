@@ -1,14 +1,17 @@
 import React from "react";
 import {
     View,
-    Text
+    Image
 } from "react-native";
+  
 
 const OrderDelivery = () => {
     return (
         <View>
-            <Text>OrderDelivery page</Text>
+            <Image source={require('../Map/Map.png')} />
         </View>
+            
+        
     )
 }
 
