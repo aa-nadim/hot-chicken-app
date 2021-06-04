@@ -9,7 +9,6 @@ import Tabs from './navigation/tabs'
 const Stack = createStackNavigator();
 
 const App = () => {
-  console.log('noman');
   return(
     <NavigationContainer>
       <Stack.Navigator
